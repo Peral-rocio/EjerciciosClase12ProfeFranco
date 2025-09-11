@@ -14,16 +14,16 @@
 // 8. Ejemplo de Ejecución: Si el usuario ingresa 10, el programa debe imprimir: “La cantidad de números impares desde 0 hasta 10 (inclusive) es: 5”
 
 
-let numero = parseInt (prompt (" ingrese un numero porfavor."));
-let impar = 0
+// let numero = parseInt (prompt (" ingrese un numero porfavor."));
+// let impar = 0
 
-for ( let i = 0 ; i <= numero ; i++){
-    if (i % 2 !== 0) {
-        impar++  
- }
-}
+// for ( let i = 0 ; i <= numero ; i++){
+//     if (i % 2 !== 0) {
+//         impar++  
+//  }
+// }
 
-alert (`la cantidad de numero impares entre 0 y ${numero} es ${impar}`)
+// alert (`la cantidad de numero impares entre 0 y ${numero} es ${impar}`)
 
 //nota para mi:
 //  impar++ esto significa que cada vez que se encuentre un impar se sumara al contador, que los esta contando. 
